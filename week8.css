@@ -1,0 +1,61 @@
+
+h1{
+    color:goldenrod; text-align: center;
+}
+
+div {
+    border-radius: 10px; 
+    border-style:double; 
+    border-style:color#808080; 
+    background-color: #FF9800; 
+    text-align: center;
+
+}
+.menubarlinkcolor{
+    color: white;
+}
+
+#title {
+
+    text-align: center; text-decoration-color: #ff9800;
+}
+
+table {
+
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,td {
+
+    padding: 3px;
+    text-align: center;
+    color: blue;
+    border-color: blue;
+    border-bottom: #FF9800;
+    border-top: #FF9800;
+    border-right: #FF9800;
+    
+}
+
+tr:nth-child(even){
+    background-color: aquamarine;
+}
+
+#shopheader{
+    text-align: center;
+}
+
+li{
+    color: #FF9800;
+}
+h3{
+    color: #808080 ;
+}
+
+#contactform {
+    color: #FF9800;
+}
+  
+
+    </style>
